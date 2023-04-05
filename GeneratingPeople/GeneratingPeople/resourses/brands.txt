@@ -1,0 +1,117 @@
+Популярные марки авто
+Audi
+BMW
+Ford
+Honda
+Hyundai
+Kia
+Lada (ВАЗ)
+Mazda
+Mercedes-Benz
+Mitsubishi
+Nissan
+Renault
+Skoda
+Toyota
+Volkswagen
+
+Японские марки авто
+Acura
+Daihatsu
+Datsun
+Honda
+Infiniti
+Isuzu
+Lexus
+Mazda
+Mitsubishi
+Nissan
+Scion
+Subaru
+Suzuki
+Toyota
+
+Американские марки авто
+Buick
+Cadillac
+Chevrolet
+Chrysler
+Dodge
+Ford
+GMC
+Hummer
+Jeep
+Lincoln
+Mercury
+Oldsmobile
+Pontiac
+Tesla
+
+Российские марки авто
+Aurus
+Lada (ВАЗ)
+ГАЗ
+Москвич
+ТагАЗ
+УАЗ
+
+Немецкие марки авто
+Audi
+BMW
+Mercedes-Benz
+Opel
+Porsche
+Volkswagen
+
+Корейские марки авто
+Daewoo
+Genesis
+Hyundai
+Kia
+SsangYong
+
+Европейские марки авто
+Alfa Romeo
+Aston Martin
+Bentley
+Bugatti
+Citroen
+DS
+Ferrari
+Fiat
+Jaguar
+Lamborghini
+Lancia
+Land Rover
+Maserati
+Maybach
+Mini
+Peugeot
+Ravon
+Renault
+Rolls-Royce
+Rover
+Saab
+SEAT
+Skoda
+Smart
+Volvo
+ZAZ
+
+Китайские марки авто
+Brilliance
+BYDChangan
+Chery
+DongFeng
+Exeed
+FAW
+Foton
+GAC
+Geely
+Great Wall
+Haima
+Haval
+JAC
+Lifan
+Luxgen
+Zotye
